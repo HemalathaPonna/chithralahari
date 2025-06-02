@@ -27,14 +27,7 @@
 
 ---
 
-## 📷 Preview
 
-
-![Uploading image.png…]()
-
-*A glimpse of the styled interface with "Chithralahari" title animation.*
-
----
 
 ## 🚀 Getting Started
 
