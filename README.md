@@ -29,7 +29,9 @@
 
 ## 📷 Preview
 
-![Chithralahari Screenshot](preview.png)  
+
+![Uploading image.png…]()
+
 *A glimpse of the styled interface with "Chithralahari" title animation.*
 
 ---
@@ -74,7 +76,7 @@ Chithralahari blends **aesthetic design with Telugu flair**, aimed at making mov
 
 ## 🧑‍💻 Author
 
-**Maya Sruthi Pinnamraju**
+
 🔗 https://www.linkedin.com/in/p-hema-latha-ponna-694132275/
 📧 hemalathaponna05@gmail.com 
 
@@ -83,11 +85,5 @@ Chithralahari blends **aesthetic design with Telugu flair**, aimed at making mov
 ## 📄 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-> Made with 💫 and 🎬
-
-```
 
 
